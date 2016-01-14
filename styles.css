@@ -58,6 +58,12 @@ body{
 	border-radius: 0;
 }
 
+.btn-primary{
+	background-color: white;
+	text-align: left;
+	color: #283593;
+}
+
 .fa {
   padding-right: 0.5rem; }
 
